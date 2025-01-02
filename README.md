@@ -26,3 +26,4 @@ Tweak margin and padding
 Fix broken link
 Fix typo in README
 Remove unused imports
+Improve error handling
