@@ -20,3 +20,4 @@ Update configuration
 Fix broken link
 Optimize loop
 Fix typo in README
+Add new utility script
