@@ -21,3 +21,4 @@ Fix broken link
 Optimize loop
 Fix typo in README
 Add new utility script
+Refactor core logic
