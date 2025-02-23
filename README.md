@@ -25,3 +25,4 @@ Refactor core logic
 Tweak margin and padding
 Fix broken link
 Fix typo in README
+Remove unused imports
